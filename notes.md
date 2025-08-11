@@ -126,7 +126,7 @@ Litations, and Research Opportunities
 
 took data from coingeecko defi llama categories
 
-- infra
+- Coingecko AI
   1. bittensor
     - $3,619,861,264
     - [link](https://github.com/bittensor/bittensor)
@@ -150,6 +150,79 @@ took data from coingeecko defi llama categories
     - [link](https://renderfoundation.com/)
     - chains: eth, solana, polygon
     - The Render Network is a leading decentralized GPU compute platform for applications ranging from 3D rendering to machine learning and generative AI.
-  5. 
+  5. IP (SMOKEY)
+    - chains: own
+    - Story is a purpose-built layer 1 blockchain designed specifically to onramp intellectual property (IP) to the blockchain and make it programmable.
+  6. Artificial Superintelligence Alliance (Fetch.ai)
+    - chains: eht, bnb, osmosis, cardano
+    - The Fetch.ai network is an interchain protocol, based on the Cosmos-SDK, and uses a high-performance WASM-based smart contract language (Cosmwasm) to allow advanced cryptography and machine learning logic to be implemented on chain.
+      - This technology enables creation of personalized oracles that maintain user’s DeFi positions using decentralized and non-custodial protocols to increase the security and convenience of crypto asset management.
+  7. The graph
+    - [link](https://thegraph.com/es/)
+    - $997,743,220
+    - chains: eth, bnb, polygon, avalanche, harmony, arbitrum, energi, near, sora
+    - It is an indexing protocol and a global API aimed at organizing blockchain data, while making it easily accessible via GraphQL.
+  8. Virtuals Protocol
+    - [link](https://app.virtuals.io/)
+    - $905,730,595
+    - chains: eth, solana, base
+    - Virtuals Protocol is a society of productive AI agents, each designed to generate services or products and autonomously engage in commerce—either with humans or other agents—onchain. 
+  9. Thetha (SMOKEY)
+    - [link](https://www.thetatoken.org/)
+    - chains: thetha
+    - On coingecko, Theta network is a decentralized video streaming network that is powered by blockchain technology. 
+      - while on its mainpage... The Decentralized Cloud for AI, Media & Entertainment
+- Coingeeko AI Agents
+  1. Artificial Superintelligence Alliance (Fetch.ai)
+  2. Virtuals Protocol
+  3. REI
+    - [link](https://reisearch.box/)
+    - $183,510,087
+    - chains: base
+    - 0xReisearch is a dynamic collective of AI and crypto enthusiasts committed to revolutionizing the intersection of artificial intelligence and blockchain. Our mission is to pioneer innovative methods for integrating neural architectures into blockchain ecosystems, with a primary focus on the Ethereum Virtual Machine (EVM).
+  4. AWE Network (501)
+    - [link](https://www.awenetwork.ai/)
+    - $105,231,179
+    - chains: base
+    - AWE Network is opening the portal to Autonomous Worlds where AI Agents collaborate, adapt and evolve. The Autonomous Worlds Engine (AWE) is a modular framework enabling the creation of self-sustaining worlds for scalable agent-agent and human-agent collaboration.
+  5. PAAL (532)
+    - [link](https://www.paal.ai/)
+    - $96,912,336
+    - chains: eth, bnb, base
+    - Paal isn’t just a platform; it’s a dynamic ecosystem where cutting-edge AI meets the transformative power of decentralization. Our mission is to provide tools, resources, and innovations that simplify the complex, spark creativity, and foster collaboration in an ever-evolving digital world.
+      - Agents and Bots: Explore intelligent tools that simplify workflows, provide insights, and interact seamlessly across platforms.
+      - Automation at Scale: Harness the power of AI to automate tasks, make smarter decisions, and amplify efficiency.
+      - Trust through Transparency: From audits to secure transactions, we prioritize openness and fairness in every layer of our ecosystem.
+  6. Treasure (582)
+    - [link](https://treasure.lol/)
+    - $84,696,736
+    - chains: eth, arbitrum
+    - Treasure is creating the world’s greatest collectible.
+      - AI-native collectibles that come to life, stretching across digital and physical spaces, designed to grow, learn, and evolve alongside you.
+  7. IQ (593)
+    - [link]()
+    - $81,370,236
+    - chians: eth, bnb, polygon
+    - powers the Agent Tokenization Platform (ATP). ATP was built for developers to launch the next generation of tokenized agents that are verifiably autonomous and sovereign. These agents are capable of owning and managing digital and physical assets, from cryptocurrencies to DeFi transactions to robots.
+  8. Humans AI (771)
+    - [link](https://humans.ai/)
+    - $54,913,538
+    - chains: eth, osmosis
+    - Humans.ai is a next-generation blockchain platform that brings together an ecosystem of stakeholders around the use of AI to create at scale. It combines a library of AI tools into a creative studio suite where users can pick and choose as they bring their ideas to life.
+  9. Myshell (842)
+    - [link](https://myshell.ai/)
+    - $46,135,023
+    - chains: eth, bnb
+    - MyShell is an AI consumer layer for building, sharing, and owning AI agents, bridging AI and Blockchain through Agentic Frameworks, open-source models, and an AI creator community, while providing AI-powered entertainment and utility with shared ownership.
+  10. Autonolas (856)
+    - [link](https://olas.network/)
+    - $44,524,052
+    - chians: eth, solana, base, polygon, arbitrum , optimism, gnosis, celo, mode
+    - Autonolas’ mission is to provide a foundation on which new types of autonomous applications can be built
+      - In the context of blockchain, we call these applications off-chain services, as they run primarily off-chain but are secured on-chain
+
+
+
+
 
 
