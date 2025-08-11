@@ -122,4 +122,34 @@ Litations, and Research Opportunities
 - What are the opportunities for rootstock?
 
 
+## categories
+
+took data from coingeecko defi llama categories
+
+- infra
+  1. bittensor
+    - $3,619,861,264
+    - [link](https://github.com/bittensor/bittensor)
+    - chains: own
+    - An open-source protocol that utilizes blockchain technology to create a decentralized machine learning network. This network enables machine learning models to train collaboratively and be rewarded in TAO according to the informational value they offer the collective.
+    - The ultimate vision of Bittensor is to create a market for artificial intelligence
+  2. NEAR
+    - $3,339,852,411
+    - [link](https://near.org/)
+    - chains: own
+    - NEAR Protocol is the blockchain for AI
+    - provides the infrastructure AI needs to transact, operate, and interact across Web2 and Web3.
+    - NEAR combines three core elements: User-Owned AI, which ensures agents act in users’ best interests; Intents and Chain Abstraction, which eliminate blockchain complexity for seamless, goal-driven transactions across chains; and a sharded blockchain architecture that delivers the scalability, speed, and low-cost execution needed for real-world AI and Web3 use. 
+  3. ICP (SMOKEY)
+    - $2,908,750,208
+    - [link](https://internetcomputer.org/)
+    - chains: own
+    - intends to support: social media, games, DeFi, multichain apps, secure front-ends, ledgers, enterprise apps, and AI models. 
+  4. Render
+    - $2,026,235,943
+    - [link](https://renderfoundation.com/)
+    - chains: eth, solana, polygon
+    - The Render Network is a leading decentralized GPU compute platform for applications ranging from 3D rendering to machine learning and generative AI.
+  5. 
+
 
